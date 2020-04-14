@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Musify/static/css/main.ed5e86b6.chunk.css",
+    "main.js": "/Musify/static/js/main.c167583f.chunk.js",
+    "main.js.map": "/Musify/static/js/main.c167583f.chunk.js.map",
+    "runtime-main.js": "/Musify/static/js/runtime-main.e885fb30.js",
+    "runtime-main.js.map": "/Musify/static/js/runtime-main.e885fb30.js.map",
+    "static/css/2.87b6737d.chunk.css": "/Musify/static/css/2.87b6737d.chunk.css",
+    "static/js/2.e3c6da97.chunk.js": "/Musify/static/js/2.e3c6da97.chunk.js",
+    "static/js/2.e3c6da97.chunk.js.map": "/Musify/static/js/2.e3c6da97.chunk.js.map",
+    "index.html": "/Musify/index.html",
+    "precache-manifest.4f730abd5b3bdb9965e86824205ce976.js": "/Musify/precache-manifest.4f730abd5b3bdb9965e86824205ce976.js",
+    "service-worker.js": "/Musify/service-worker.js",
+    "static/css/2.87b6737d.chunk.css.map": "/Musify/static/css/2.87b6737d.chunk.css.map",
+    "static/css/main.ed5e86b6.chunk.css.map": "/Musify/static/css/main.ed5e86b6.chunk.css.map",
+    "static/js/2.e3c6da97.chunk.js.LICENSE.txt": "/Musify/static/js/2.e3c6da97.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Musify/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/font-awesome.min.css": "/Musify/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e885fb30.js",
+    "static/css/2.87b6737d.chunk.css",
+    "static/js/2.e3c6da97.chunk.js",
+    "static/css/main.ed5e86b6.chunk.css",
+    "static/js/main.c167583f.chunk.js"
+  ]
+}
