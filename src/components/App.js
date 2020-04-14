@@ -28,8 +28,8 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-        <h2>Musify</h2>
+      <div className='App'>
+        <h2 >Musify</h2>
         <Search searchArtist={this.searchArtist} />
         <Artist artist={this.state.artist} />
         <Tracks tracks={this.state.tracks} />

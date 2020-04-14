@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import 'react-fontawesome';
+import 'font-awesome/css/font-awesome.min.css';
 
 class Search extends Component {
   state = { artistQuery: '' };
@@ -19,14 +21,19 @@ class Search extends Component {
 
   render() {
     return (
+
       <div>
-        <input
+        <span className="search-box">
+        <input className="search-txt"
+       
           onChange={this.updateArtistQuery}
           onKeyPress={this.handleKeyPress}
-          placeholder='Search for an Artist'
-        />
-        <button onClick={this.searchArtist}>Search</button>
+          placeholder='Search for an Artist'/>
+          <span className ='search-btn' type="button"  onClick={this.searchArtist}><i className='fa fa-search'></i></span>
+        </span>
       </div>
+    
+    
     )
   }
 }
